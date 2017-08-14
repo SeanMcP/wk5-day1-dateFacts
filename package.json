@@ -1,0 +1,19 @@
+{
+  "name": "datefacts",
+  "version": "1.0.0",
+  "description": "Week 5 - Day 1 Project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanMcP/wk5-day1-dateFacts.git"
+  },
+  "author": "Sean McPherson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanMcP/wk5-day1-dateFacts/issues"
+  },
+  "homepage": "https://github.com/SeanMcP/wk5-day1-dateFacts#readme"
+}
