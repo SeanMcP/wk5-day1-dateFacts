@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/SeanMcP/wk5-day1-dateFacts/issues"
   },
-  "homepage": "https://github.com/SeanMcP/wk5-day1-dateFacts#readme"
+  "homepage": "https://github.com/SeanMcP/wk5-day1-dateFacts#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "moment": "^2.18.1"
+  }
 }
